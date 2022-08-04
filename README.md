@@ -4,4 +4,4 @@
 placed on several physically **separated database servers** (which one could say distributes them horizontally).
 
 
-![BD](https://github.com/GeorgeCodde/Data-Base-Sharding/edit/main/DataBaseSahrding.png.png)
+![BD](https://github.com/GeorgeCodde/Data-Base-Sharding/blob/main/DataBaseSharding.png.png)
